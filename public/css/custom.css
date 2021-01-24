@@ -1,0 +1,7 @@
+form input[required],
+form select[required],
+form textarea[required],
+form date[required]
+{
+    border: 1px solid red;
+}
